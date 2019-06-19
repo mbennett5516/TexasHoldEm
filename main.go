@@ -10,3 +10,6 @@ func main() {
 	hand.print()
 	cards.print()
 }
+
+//to run this project, type "go run main.go deck.go card.go" in the terminal.
+//main.go is going to be changed to run the game on a listening http server in the near future
